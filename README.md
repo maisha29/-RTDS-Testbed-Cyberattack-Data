@@ -1,4 +1,4 @@
-Benign Dataset: The provided benign dataset is used for the detection method.
+Benign Dataset: The provided benign dataset is 16 hours long.
 
 Attack Dataset: The provided attack dataset is 20 minutes long.
 
